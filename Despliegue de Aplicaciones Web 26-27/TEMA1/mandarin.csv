@@ -1,0 +1,51 @@
+id,categoria,caracter,pinyin,significado,ejemplo_chino,ejemplo_pinyin,ejemplo_espanol
+1,Saludos,你好,nǐ hǎo,Hola,你好！很高兴认识你。,Nǐ hǎo! Hěn gāoxìng rènshi nǐ.,¡Hola! Mucho gusto en conocerte.
+2,Saludos,您好,nín hǎo,Hola (formal/respetuoso),您好，请问...,"Nín hǎo, qǐngwèn...","Hola, disculpe..."
+3,Saludos,早上好,zǎoshang hǎo,Buenos días,早上好！今天天气很好。,Zǎoshang hǎo! Jīntiān tiānqì hěn hǎo.,¡Buenos días! El clima de hoy está muy bien.
+4,Cortesía,谢谢,xièxie,Gracias,谢谢你的帮助。,Xièxie nǐ de bāngzhù.,Gracias por tu ayuda.
+5,Cortesía,不客气,bú kèqi,De nada / No hay de qué,—谢谢你！—不客气。,—Xièxie nǐ! —Bú kèqi.,—¡Gracias! —De nada.
+6,Cortesía,再见,zàijiàn,Adiós,明天见，再见！,"Míngtiān jiàn, zàijiàn!","Nos vemos mañana, ¡adiós!"
+7,Cortesía,对不起,duìbuqǐ,Lo siento / Discúlpame,对不起，我迟到了。,"Duìbuqǐ, wǒ chídào le.","Lo siento, llegué tarde."
+8,Cortesía,没关系,méi guānxi,No importa / No pasa nada,—对不起！—没关系。,—Duìbuqǐ! —Méi guānxi.,—¡Lo siento! —No pasa nada.
+9,Pronombres,我,wǒ,Yo,我喜欢喝茶。,Wǒ xǐhuan hē chá.,Me gusta beber té.
+10,Pronombres,你,nǐ,Tú,你叫什么名字？,Nǐ jiào shénme míngzi?,¿Cómo te llamas?
+11,Pronombres,他,tā,Él,他是我的老师。,Tā shì wǒ de lǎoshī.,Él es mi profesor.
+12,Pronombres,她,tā,Ella,她是医生。,Tā shì yīshēng.,Ella es médico.
+13,Pronombres,我们,wǒmen,Nosotros / Nosotras,我们是好朋友。,Wǒmen shì hǎo péngyou.,Somos buenos amigos.
+14,Pronombres,他们 / 她们,tāmen,Ellos / Ellas,他们都在学习中文。,Tāmen dōu zài xuéxí zhōngwén.,Todos ellos están estudiando chino.
+15,Números,零,líng,Cero,房间号是零六号。,Fángjiān hào shì líng liù hào.,El número de habitación es el 06.
+16,Números,一,yī,Uno,我有一个苹果。,Wǒ yǒu yí gè píngguǒ.,Tengo una manzana.
+17,Números,二 / 两,èr / liǎng,Dos,我有两本书。,Wǒ yǒu liǎng běn shū.,Tengo dos libros.
+18,Números,三,sān,Tres,桌子上有三个人。,Zhuōzi shàng yǒu sān gè rén.,Hay tres personas en la mesa.
+19,Números,四,sì,Cuatro,我有四个猫。,Wǒ yǒu sì zhī māo.,Tengo cuatro gatos.
+20,Números,五,wǔ,Cinco,今天星期五。,Jīntiān xīngqī wǔ.,Hoy es viernes.
+21,Números,六,liù,Seis,我有六个朋友。,Wǒ yǒu liù gè péngyou.,Tengo seis amigos.
+22,Números,七,qī,Siete,一周有七天。,Yì zhōu yǒu qī tiān.,Una semana tiene siete días.
+23,Números,八,bā,Ocho,他八岁了。,Tā bā suì le.,Él tiene ocho años.
+24,Números,九,jiǔ,Nueve,九月天气很凉快。,Jiǔyuè tiānqì hěn liángkuai.,En septiembre el clima es fresco.
+25,Números,十,shí,Diez,这里有十个人。,Zhèli yǒu shí gè rén.,Aquí hay diez personas.
+26,Verbos,是,shì,Ser / Sí,我是中国人。,Wǒ shì Zhōngguó rén.,Soy chino (de China).
+27,Verbos,有,yǒu,Tener / Haber,我有一辆车。,Wǒ yǒu yí liàng chē.,Tengo un coche.
+28,Verbos,吃,chī,Comer,我想吃中国菜。,Wǒ xiǎng chī Zhōngguó cài.,Quiero comer comida china.
+29,Verbos,喝,hē,Beber / Tomar,你想喝什么？,Nǐ xiǎng hē shénme?,¿Qué quieres beber?
+30,Verbos,去,qù,Ir,明天我去北京。,Míngtiān wǒ qù Běijīng.,Mañana voy a Pekín.
+31,Verbos,来,lái,Venir,欢迎你来我家！,Huānyíng nǐ lái wǒ jiā!,¡Bienvenido a mi casa!
+32,Verbos,看,kàn,Ver / Leer / Mirar,我在看书。,Wǒ zài kàn shū.,Estoy leyendo un libro.
+33,Verbos,听,tīng,Escuchar,听音乐很放松。,Tīng yīnyuè hěn fàngsōng.,Escuchar música es muy relajante.
+34,Verbos,说,shuō,Hablar / Decir,他说汉语说得很好。,Tā shuō hànyǔ shuō de hěn hǎo.,Él habla muy bien el chino.
+35,Verbos,买,mǎi,Comprar,我要买一部手机。,Wǒ yào mǎi yí bù shǒujī.,Voy a comprar un teléfono móvil.
+36,Adjetivos,好,hǎo,Bueno / Bien,今天天气很好。,Jīntiān tiānqì hěn hǎo.,El clima de hoy está muy bien.
+37,Adjetivos,大,dà,Grande,北京是一个大城市。,Běijīng shì yí gè dà chéngshì.,Pekín es una gran ciudad.
+38,Adjetivos,小,xiǎo,Pequeño,这是一只小狗。,Zhè shì yì zhī xiǎo gǒu.,Este es un perro pequeño.
+39,Adjetivos,多,duō,Mucho / Muchos,这里有很多书。,Zhèli yǒu hěn duō shū.,Aquí hay muchos libros.
+40,Adjetivos,少,shǎo,Poco / Pocos,人很少。,Rén hěn shǎo.,Hay muy poca gente.
+41,Adjetivos,冷,lěng,Frío,今天很冷，多穿衣服。,"Jīntiān hěn lěng, duō chuān yīfu.","Hace mucho frío hoy, ponte más ropa."
+42,Adjetivos,热,rè,Caliente / Calor,夏天的天气很热。,Xiàtiān de tiānqì hěn rè.,El clima en verano es muy caluroso.
+43,Preguntas,什么,shénme,Qué,你叫什么名字？,Nǐ jiào shénme míngzi?,¿Cómo te llamas?
+44,Preguntas,谁,shéi / shuí,Quién,他是谁？,Tā shì shéi?,¿Quién es él?
+45,Preguntas,哪儿 / 哪里,nǎr / nǎlǐ,Dónde,你在哪儿？,Nǐ zài nǎr?,¿Dónde estás?
+46,Preguntas,怎么,zěnme,Cómo,这个字怎么读？,Zhè gè zì zěnme dú?,¿Cómo se lee este carácter?
+47,Preguntas,多少,duōshǎo,Cuánto (números),多少钱？,Duōshǎo qián?,¿Cuánto cuesta?
+48,Preguntas,几,jǐ,Cuántos (menos de 10),你有几个苹果？,Nǐ yǒu jǐ gè píngguǒ?,¿Cuántas manzanas tienes?
+49,Preguntas,为什么,wèishénme,Por qué,你为什么学习中文？,Nǐ wèishénme xuéxí zhōngwén?,¿Por qué estudias chino?
+50,Preguntas,吗,ma,Partícula interrogativa (S/N),你是学生吗？,Nǐ shì xuésheng ma?,¿Eres estudiante?
