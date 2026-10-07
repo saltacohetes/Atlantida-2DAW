@@ -48,7 +48,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
 				Goals: ["Disfrutar del tiempo libre", "Encontrar amigos de su edad"],
-				Frustrations: ["Le gusta la tecnología, pero siempre 'llama a alguno de sus hijos' para resolver problemas", "Le gustaría encontrar algun sitio donde socializar"],
+				Frustrations: ["Le gusta la tecnología, pero siempre 'llama a alguno de sus hijos' para resolver problemas", "Le gustaría encontrar algun sitio organizado y con espacio sociable"],
 				Bio: "Es de Peligros y se mudó a Granada para trabajar en su plaza fija, tras saltar de hobby en hobby se ha dado cuenta de que lo que quiere es un sitio donde poder socializar y ahcer actividades. LLeva 2 años intentando organizarse para que le den clases de pintura pero pasan de el en la tienda y no tiene metodo de apuntarse más allá del ir a probar suerte",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
@@ -79,7 +79,7 @@ angular.module("angular", [])
 				Quote: "¡Me gusta el arte!",
 				Age: 26,
 				Occupation: "Medico de familia",
-				Family: "Madre y dos hermanos",
+				Family: "Sin familia conocida",
 				Location: "Zaidín",
 				Character: "Fuerte y concisa.",
 				PersonalityTraits: [
