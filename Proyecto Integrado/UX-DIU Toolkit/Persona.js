@@ -33,7 +33,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Sergio",
+				Name: "Fernando",
 				Photo: "Cliente.webp",
 				Quote: "Soy padre",
 				Age: 67,
@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Paquita",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Quote: "¡Me gusta el arte!",
+				Age: 26,
+				Occupation: "Medico de familia",
+				Family: "Madre y dos hermanos",
+				Location: "Zaidín",
+				Character: "Fuerte y concisa.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Le gustaria estar jublada ya y poder dedicarse a lo que le gusta de verdad que es no trabajar"],
+				Frustrations: ["El sistema capitalista y los fachapobres."],
+				Bio: "Médica en Olivares lo que le deja las tardes libre para trabajo autónomo o hobby´s en los que interesarse como la ceramica o la pintura.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
                 Contextos:   "The goals this user hopes to achieve." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
 					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];

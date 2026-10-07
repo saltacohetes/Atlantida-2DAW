@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
-        $scope.Curso ="2021/22";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+		$scope.Grupo_ID ="DAW2.Adrián y Jesús";
+        $scope.Curso ="2026/27";
+        $scope.Github_ID ="https://github.com/saltacohetes/Atlantida-2DAW/tree/main/Proyecto%20Integrado/UX-DIU%20Toolkit";
         
 		$scope.JourneyIndex = 0;
         
