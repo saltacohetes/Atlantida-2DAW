@@ -19,8 +19,6 @@ const mansionEffectTimeouts = new Map();
 
 /*
  * DIÁLOGOS DE LOS PERSONAJES
- * Puedes cambiar title, kicker y text sin tocar la lógica del juego.
- * Cada clave corresponde al atributo data-npc de su personaje en index.html.
  */
 const NPC_DIALOGUES = {
   trumpeter: {
@@ -60,7 +58,7 @@ const NPC_DIALOGUES = {
   },
 };
 
-// Textos de ambiente: pequeños cambios para que el jardín no parezca congelado.
+// Textos de ambiente
 const AMBIENT_LINES = [
   "Una ráfaga mueve las ramas. Las luces de la mansión parpadean.",
   "La orquesta cambia de compás y alguien ríe junto a la verja.",
@@ -207,7 +205,7 @@ function inspectMailbox() {
   );
 }
 
-// PIEDRA Y LLAVE: escondida en un pequeño montón de rocas entre la maleza.
+// PIEDRA Y LLAVE
 function liftStone() {
   if (hasKey) return;
   if (stoneIsOpen) {
@@ -248,7 +246,6 @@ function collectKey(event) {
 }
 
 // PUERTA
-// PUERTA: abre la entrada y carga la recepción.
 function enterMansion() {
     if (!hasKey) {
         setGameMessage('La puerta no cede. Necesitas encontrar la llave.');
@@ -281,7 +278,7 @@ function enterMansion() {
     }, 1500);
 }
 
-// NPCs: cada botón consulta su propia conversación en NPC_DIALOGUES.
+// NPCs
 function talkToNpc(event) {
   const npc = event.currentTarget;
   const dialogue = NPC_DIALOGUES[npc.dataset.npc];
